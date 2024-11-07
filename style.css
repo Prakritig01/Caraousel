@@ -16,7 +16,7 @@ body {
     margin: 10px auto;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    border: 1px solid wheat;
+    /* border: 1px solid wheat; */
 }
 
 .carousel-items {
